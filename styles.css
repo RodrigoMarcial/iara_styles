@@ -2,15 +2,10 @@
     position: fixed;
     transform: translate(-50vmin, -50vmin);
 }
-.vfrc-chat {
-    width: 50vw;
-}
-.vfrc-bubble {
-    width: 50vw;
-}
-.vfrc-chat.c-fikloo {
-    width: 50vw;
-}
+
 .c-fikloo {
-     width: 50vw;
+    width: inherit;
+    min-width: 50vw;
+    height: 95vh;
+    max-height: 95vh;
 }
