@@ -1,13 +1,14 @@
 .voiceflow-chat {
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-bottom: 50vw;
 }
 
 .vfrc-launcher {
     display: flex;
     justify-content: center;
     align-items: self-start; /* Your custom style */
-}
-
-element.style {
-    bottom: 6%;
-    right: 30%;
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-bottom: 50vw;
 }
