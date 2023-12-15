@@ -1,12 +1,12 @@
 .vfrc-launcher {
     position: relative;
-    transform: translate(-70px, -100px);
-    scale: 4;
+    transform: translate(-100px, -100px);
+    scale: 3;
 }
 
 .c-fikloo {
     width: inherit;
     min-width: 50vw;
-    height: 95vh;
-    max-height: 95vh;
+    height: 90vh;
+    max-height: 90vh;
 }
