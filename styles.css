@@ -2,3 +2,6 @@
     position: fixed;
     transform: translate(-50vmin, -50vmin);
 }
+.vfrc-chat {
+    width: 50vw;
+}
