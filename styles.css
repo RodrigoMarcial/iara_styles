@@ -9,3 +9,7 @@
     height: 95vh;
     max-height: 95vh;
 }
+.element.styles    {
+    bottom: 30px;
+    right: 0px;
+}
