@@ -1,6 +1,7 @@
 .vfrc-launcher {
-    position: fixed;
-    transform: translate(-50vmin, -50vmin);
+    position: relative;
+    transform: translate(-70px, -100px);
+    scale: 4;
 }
 
 .c-fikloo {
